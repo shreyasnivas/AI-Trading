@@ -1,0 +1,3 @@
+1. GET coinmarketcap API https://api.coinmarketcap.com/v1/ticker/
+2. convert json to csv using http://www.convertcsv.com/json-to-csv.htm
+3. pd.read_csv("filename.csv") into the jupyter notebook
